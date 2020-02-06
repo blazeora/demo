@@ -1,0 +1,3 @@
+git log --name-only -n 1
+git rev-parse HEAD > GitCommitId.txt
+git checkout GitCommitId.txt

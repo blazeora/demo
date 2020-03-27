@@ -1,0 +1,7 @@
+commit 46f248007db06b38785f739e6f703d7e9af7525d
+Author: ATCi-acn <59095061+ATCi-acn@users.noreply.github.com>
+Date:   Fri Feb 7 11:28:17 2020 +0530
+
+    COMMITALL12
+
+SubFolder/SubFolder6.txt

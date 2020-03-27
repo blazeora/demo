@@ -1,1 +1,7 @@
-SubFolder\SubFolder6.txt
+SubFolder\SubFolder7_Copy.txt
+content.txt
+filename.txt
+newD\Helloworld.txt
+newD\Welcome.txt
+newD\shrividhya.txt
+srcDir\SubFolder6.txt

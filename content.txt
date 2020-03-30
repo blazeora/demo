@@ -1,13 +1,7 @@
-commit 4b47350891938184dbfc25a16a4678ae5e627b76
+commit 0a2da2e06794179e666f15fa549b53b939db1129
 Author: ATCi-acn <59095061+ATCi-acn@users.noreply.github.com>
-Date:   Fri Mar 27 22:25:31 2020 +0530
+Date:   Mon Mar 30 12:12:43 2020 +0530
 
-    HelloWorld
+    COMMITALL2
 
-SubFolder/SubFolder7_Copy.txt
-content.txt
-filename.txt
-newD/Helloworld.txt
-newD/Welcome.txt
-newD/shrividhya.txt
-srcDir/SubFolder6.txt
+NewTextForDemo.txt

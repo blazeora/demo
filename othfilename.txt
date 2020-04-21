@@ -1,2 +1,3 @@
 development/views/pages/NewName.txt
+development/views/pages/SiebelResources.txt
 development/views/pages/SubFolder/OldNames.txt

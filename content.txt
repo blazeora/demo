@@ -1,15 +1,11 @@
-commit d94957f43ff6f0d53d6554617a7bf7c448812742
+commit 9744d8a6024cee1034e434abb158535a210a47d0
 Author: ATCi-acn <59095061+ATCi-acn@users.noreply.github.com>
-Date:   Tue Apr 21 22:54:48 2020 +0530
+Date:   Tue Apr 21 23:05:06 2020 +0530
 
-    DemoJob1
+    DemoJob2
 
-MasterFolder2/commitSrcFolder_2edd4efcef573d8578b2dd358db5ecfc7c942f56/development/views/pages/NewName.txt
-MasterFolder2/commitSrcFolder_f9cc219c914be1d2e91da3e4a62f5e9ef3eed6c1/development/views/pages/NewName.txt
-MasterFolder2/commitSrcFolder_f9cc219c914be1d2e91da3e4a62f5e9ef3eed6c1/development/views/pages/SiebelResources.txt
-MasterFolder2/commitSrcFolder_f9cc219c914be1d2e91da3e4a62f5e9ef3eed6c1/development/views/pages/SubFolder/OldNames.txt
 commitid.txt
 content.txt
-development/views/pages/PhpCheck7_final_9th.php
+development/views/pages/PhpCheck7_final_8th.php
 othfilename.txt
 phpfilename.txt

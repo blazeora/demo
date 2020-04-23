@@ -6,7 +6,7 @@ initConnetAPI();
 
 try 
 {	
-$email_1 = "Reghu.a.suresh@accenture.com";
+$email_1 = "deepthi.a.suresh@accenture.com";
 $text_body ="Text Goes here";
 $html_body ="<p> <h1> HTML Content Goes here</h1> <p>";
 

@@ -1,18 +1,7 @@
-commit 21ff7cdae744c5ab174eb8aff9163ffa092ec03c
-Author: ATCi-acn <59095061+ATCi-acn@users.noreply.github.com>
-Date:   Fri Apr 24 12:31:27 2020 +0530
-
-    DemoJob3
-
-MasterFolder2/commitSrcFolder_b8642c6ed79f11d72fd864c3ad6605994bcf26ab/.scannerwork/.sonar_lock
-MasterFolder2/commitSrcFolder_b8642c6ed79f11d72fd864c3ad6605994bcf26ab/.scannerwork/report-task.txt
 MasterFolder2/commitSrcFolder_b8642c6ed79f11d72fd864c3ad6605994bcf26ab/assets/images/image1.png
 MasterFolder2/commitSrcFolder_b8642c6ed79f11d72fd864c3ad6605994bcf26ab/development/views/pages/jsFolder/File1.txt
 MasterFolder2/commitSrcFolder_b8642c6ed79f11d72fd864c3ad6605994bcf26ab/development/views/pages/jsFolder/file1.js
 MasterFolder2/commitSrcFolder_b8642c6ed79f11d72fd864c3ad6605994bcf26ab/development/views/pages/phpFolder/file1.php
 MasterFolder2/commitSrcFolder_b8642c6ed79f11d72fd864c3ad6605994bcf26ab/development/views/pages/phpFolder/file1.txt
-commitid.txt
-content.txt
 development/views/pages/jsFolder/File2.txt
 development/views/pages/jsFolder/file2.js
-phpfilename.txt

@@ -1,15 +1,15 @@
-commit 60de101d70e822554921944fb3e3ebb577769c4c
+commit 1197d541a11ab61d7ad3eb1d36d2cbc55d4a8f56
 Author: ATCi-acn <59095061+ATCi-acn@users.noreply.github.com>
-Date:   Wed Apr 29 22:10:39 2020 +0530
+Date:   Wed Apr 29 22:34:00 2020 +0530
 
-    testcommit
+    Clonetest
 
-MasterFolder2/commitSrcFolder_3ac81b56e4c691abab2ce0d15ee8b7cfcf9b31db/.scannerwork/.sonar_lock
-MasterFolder2/commitSrcFolder_3ac81b56e4c691abab2ce0d15ee8b7cfcf9b31db/.scannerwork/report-task.txt
-MasterFolder2/commitSrcFolder_3ac81b56e4c691abab2ce0d15ee8b7cfcf9b31db/development/views/pages/jsFolder/Js_new - Copy.js
+MasterFolder2/commitSrcFolder_60de101d70e822554921944fb3e3ebb577769c4c/.scannerwork/.sonar_lock
+MasterFolder2/commitSrcFolder_60de101d70e822554921944fb3e3ebb577769c4c/.scannerwork/report-task.txt
+MasterFolder2/commitSrcFolder_60de101d70e822554921944fb3e3ebb577769c4c/MasterFolder2/commitSrcFolder_3ac81b56e4c691abab2ce0d15ee8b7cfcf9b31db/development/views/pages/jsFolder/Js_new - Copy.js
 commitid.txt
 content.txt
-development/views/pages/phpFolder/Text2.txt
+development/views/pages/jsFolder/file4.js
+development/views/pages/phpFolder/Text3.txt
 othfilename.txt
-output.txt
 phpfilename.txt

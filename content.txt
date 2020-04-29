@@ -1,15 +1,10 @@
-commit 120da65e4bf622f0b3dbfd26417d2a7a142daa58
+commit 3ac81b56e4c691abab2ce0d15ee8b7cfcf9b31db
 Author: ATCi-acn <59095061+ATCi-acn@users.noreply.github.com>
-Date:   Fri Apr 24 13:33:10 2020 +0530
+Date:   Fri Apr 24 13:40:28 2020 +0530
 
-    DemoJobNew
+    demojob6
 
-MasterFolder2/commitSrcFolder_1cd2ec59b5713063c023be1f87c291481c41f1b6/.scannerwork/.sonar_lock
-MasterFolder2/commitSrcFolder_1cd2ec59b5713063c023be1f87c291481c41f1b6/.scannerwork/report-task.txt
 commitid.txt
 content.txt
-development/views/pages/jsFolder/Js_new.js
-development/views/pages/jsFolder/Text_new.txt
-development/views/pages/phpFolder/Php_New.php
-development/views/pages/phpFolder/Text1_New.txt
+development/views/pages/jsFolder/Js_new - Copy.js
 othfilename.txt

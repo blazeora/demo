@@ -1,2 +1,1 @@
-development/views/pages/jsFolder/Js_new.js
-development/views/pages/phpFolder/Php_New.php
+development/views/pages/jsFolder/Js_new - Copy.js

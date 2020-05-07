@@ -1,14 +1,7 @@
-commit e8c89cc128de29c421efbc085768a3a6a7138f52
-Author: ATCi-acn <59095061+ATCi-acn@users.noreply.github.com>
-Date:   Wed Apr 29 23:05:38 2020 +0530
+commit 19f27e89caa7233f4240648bc9760e048dd40ab0
+Author: Shobana-123 <tshobi95@gmail.com>
+Date:   Wed May 6 15:29:52 2020 +0530
 
-    gittest
+    Shobana-gmail: Test registered user Email Notification
 
-MasterFolder2/commitSrcFolder_8447d686dec950131575be19908a68b3fccad941/.scannerwork/.sonar_lock
-MasterFolder2/commitSrcFolder_8447d686dec950131575be19908a68b3fccad941/.scannerwork/report-task.txt
-MasterFolder2/commitSrcFolder_8447d686dec950131575be19908a68b3fccad941/MasterFolder2/commitSrcFolder_4eadda6bfcedd60187f466751cae89f8a266c411/development/views/pages/jsFolder/file_final.js
-MasterFolder2/commitSrcFolder_8447d686dec950131575be19908a68b3fccad941/development/views/pages/jsFolder/Test_clone.js
-commitid.txt
-content.txt
-development/views/pages/phpFolder/Php_Final.php
-othfilename.txt
+development/views/pages/phpFolder/Php1.php

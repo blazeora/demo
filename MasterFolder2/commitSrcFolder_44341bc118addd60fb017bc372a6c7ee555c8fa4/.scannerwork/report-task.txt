@@ -1,0 +1,6 @@
+projectKey=CodeCheck_44341bc118addd60fb017bc372a6c7ee555c8fa4
+serverUrl=http://localhost:9000
+serverVersion=8.1.0.31237
+dashboardUrl=http://localhost:9000/dashboard?id=CodeCheck_44341bc118addd60fb017bc372a6c7ee555c8fa4
+ceTaskId=AXHt_YTazpngoiDaWBu4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXHt_YTazpngoiDaWBu4

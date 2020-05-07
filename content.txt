@@ -1,14 +1,15 @@
-commit 8e8e21899b04e46bc3f3101ef9f3212047588aec
+commit 910129562eb970a7407b3cfa7f8aa77170d19757
 Author: s.c.thiruvengadam <s.c.thiruvengadam@accenture.com>
-Date:   Thu May 7 13:37:43 2020 +0530
+Date:   Thu May 7 13:51:42 2020 +0530
 
-    sendmail_7May
+    sendmail_7MayTest
 
-MasterFolder2/commitSrcFolder_d4c374a5ef7b39d9c00567c9d86242fd41640b02/.scannerwork/.sonar_lock
-MasterFolder2/commitSrcFolder_d4c374a5ef7b39d9c00567c9d86242fd41640b02/.scannerwork/report-task.txt
-MasterFolder2/commitSrcFolder_d4c374a5ef7b39d9c00567c9d86242fd41640b02/MasterFolder2/commitSrcFolder_44341bc118addd60fb017bc372a6c7ee555c8fa4/development/views/pages/phpFolder/file1.php
-MasterFolder2/commitSrcFolder_d4c374a5ef7b39d9c00567c9d86242fd41640b02/development/views/pages/phpFolder/file1.php
+MasterFolder2/commitSrcFolder_%Source%/.scannerwork/.sonar_lock
+MasterFolder2/commitSrcFolder_%Source%/.scannerwork/report-task.txt
+MasterFolder2/commitSrcFolder_%Source%/commit_email.txt
+MasterFolder2/commitSrcFolder_8e8e21899b04e46bc3f3101ef9f3212047588aec/MasterFolder2/commitSrcFolder_d4c374a5ef7b39d9c00567c9d86242fd41640b02/development/views/pages/phpFolder/file1.php
+MasterFolder2/commitSrcFolder_8e8e21899b04e46bc3f3101ef9f3212047588aec/development/views/pages/phpFolder/file1.php
 commitid.txt
 content.txt
-development/views/pages/phpFolder/file1.php
+development/views/pages/PhpCheck7_final_7thMay.php
 othfilename.txt

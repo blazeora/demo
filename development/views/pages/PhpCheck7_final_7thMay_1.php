@@ -7,7 +7,7 @@ initConnetAPI();
 try 
 {	
 $email_1 = "deepthi.a.suresh@accenture.com";
-$text_body ="Text Goes here";
+$text_body ="Text Goes here Hello World";
 $html_body ="<p> <h1> HTML Content Goes here</h1> <p>";
 
 $mm = new RNCPHP\MailMessage();

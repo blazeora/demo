@@ -1,15 +1,7 @@
-commit 910129562eb970a7407b3cfa7f8aa77170d19757
+commit 04d978e0d2de2c8748c391f983764270ec43bf3d
 Author: s.c.thiruvengadam <s.c.thiruvengadam@accenture.com>
-Date:   Thu May 7 13:51:42 2020 +0530
+Date:   Tue May 12 23:59:29 2020 +0530
 
-    sendmail_7MayTest
+    Viewtest
 
-MasterFolder2/commitSrcFolder_%Source%/.scannerwork/.sonar_lock
-MasterFolder2/commitSrcFolder_%Source%/.scannerwork/report-task.txt
-MasterFolder2/commitSrcFolder_%Source%/commit_email.txt
-MasterFolder2/commitSrcFolder_8e8e21899b04e46bc3f3101ef9f3212047588aec/MasterFolder2/commitSrcFolder_d4c374a5ef7b39d9c00567c9d86242fd41640b02/development/views/pages/phpFolder/file1.php
-MasterFolder2/commitSrcFolder_8e8e21899b04e46bc3f3101ef9f3212047588aec/development/views/pages/phpFolder/file1.php
-commitid.txt
-content.txt
-development/views/pages/PhpCheck7_final_7thMay.php
-othfilename.txt
+development/widgets/custom/templateSelector/homepage/1.0/view.php

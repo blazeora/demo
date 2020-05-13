@@ -1,0 +1,77 @@
+Started by upstream project "Final_Check_Sonar" build number 55
+originally caused by:
+ Started by upstream project "Job1" build number 39
+ originally caused by:
+  Started by an SCM change
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\Demo_Job3
+using credential a5b72eb9-cfe8-4e3c-a745-8d8af5af04f4
+ > C:\Program Files\Git\bin\git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git config remote.origin.url https://github.com/blazeora/demo.git # timeout=10
+Fetching upstream changes from https://github.com/blazeora/demo.git
+ > C:\Program Files\Git\bin\git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > C:\Program Files\Git\bin\git fetch --tags --force --progress -- https://github.com/blazeora/demo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Seen branch in repository origin/SC_Demo_Script
+Seen branch in repository origin/master
+Seen branch in repository origin/new
+Seen branch in repository origin/sv_demo_script
+Seen branch in repository origin/test
+Seen branch in repository origin/test-pr-shobana
+Seen 6 remote branches
+ > C:\Program Files\Git\bin\git show-ref --tags -d # timeout=10
+Checking out Revision 7b0f532b5c3658c8eaf86d272fe74bbbb812551b (origin/SC_Demo_Script)
+ > C:\Program Files\Git\bin\git config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git checkout -f 7b0f532b5c3658c8eaf86d272fe74bbbb812551b # timeout=10
+Commit message: "test_new_Test"
+ > C:\Program Files\Git\bin\git rev-list --no-walk 910129562eb970a7407b3cfa7f8aa77170d19757 # timeout=10
+No emails were triggered.
+[Demo_Job3] $ cmd /c call C:\Windows\TEMP\jenkins2581778456166146844.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Demo_Job3>cd C:\Users\opc\demo 
+
+C:\Users\opc\demo>git rev-parse HEAD  1>commitid.txt 
+
+C:\Users\opc\demo>more commitid.txt 
+7b0f532b5c3658c8eaf86d272fe74bbbb812551b
+
+C:\Users\opc\demo>set /p varComId= 0<commitid.txt 
+
+C:\Users\opc\demo>echo 7b0f532b5c3658c8eaf86d272fe74bbbb812551b 
+7b0f532b5c3658c8eaf86d272fe74bbbb812551b
+
+C:\Users\opc\demo>cd C:\Program Files (x86)\WinSCP 
+
+C:\Program Files (x86)\WinSCP>winscp.com /command "open http://reghu:Reghu@123@opn-accenture2.rightnowdemo.com/" "put ""C:\Users\opc\demo\MasterFolder2\commitSrcFolder_7b0f532b5c3658c8eaf86d272fe74bbbb812551b\development\*"" /dav/cp/customer/development/" "put ""C:\Users\opc\demo\MasterFolder2\commitSrcFolder_7b0f532b5c3658c8eaf86d272fe74bbbb812551b\assets\*"" /dav/cp/customer/assets/" "exit" 
+Connecting to host...
+Authenticating...
+Authenticated.
+Starting the session...
+Session started.
+Active session: [1] reghu@opn-accenture2.rightnowdemo.com
+C:\Users\opc\demo\MasterFolder2\commitSrcFolder_7b0f532b5c3658c8eaf86d272fe74bbbb812551b\development\views |            0 B |    0.0 KB/s | binary |   0%
+C:\Users\opc\demo\MasterFolder2\commitSrcFolder_7b0f532b5c3658c8eaf86d272fe74bbbb812551b\development\views\pages |            0 B |    0.0 KB/s | binary |   0%
+C:\Users\opc\demo\MasterFolder2\commitSrcFolder_7b0f532b5c3658c8eaf86d272fe74bbbb812551b\development\views\pages\PhpCheck7_final_7thMay_1.php |          672 B |    1.0 KB/s | binary | 100%
+No file matching '*' found. (System Error.  Code: 3.
+The system cannot find the path specified)
+
+C:\Program Files (x86)\WinSCP>exit 0 
+[Demo_Job3] $ cmd /c call C:\Windows\TEMP\jenkins5540681573496305193.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Demo_Job3>git show -s --format=%ce  1>commit_email.txt 
+
+C:\Program Files (x86)\Jenkins\workspace\Demo_Job3>more commit_email.txt 
+s.c.thiruvengadam@accenture.com
+
+C:\Program Files (x86)\Jenkins\workspace\Demo_Job3>set /p GIT_COMMITER_EMAIL= 0<commit_email.txt 
+
+C:\Program Files (x86)\Jenkins\workspace\Demo_Job3>echo s.c.thiruvengadam@accenture.com 
+s.c.thiruvengadam@accenture.com
+
+C:\Program Files (x86)\Jenkins\workspace\Demo_Job3>exit 0 
+Email was triggered for: Always
+Sending email for trigger: Always
+Warning: s.c.thiruvengadam@accenture.com is not a recognized user, but sending mail anyway
+Sending email to: s.c.thiruvengadam@accenture.com
+Finished: SUCCESS

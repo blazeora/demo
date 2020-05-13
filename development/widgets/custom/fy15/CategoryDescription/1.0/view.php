@@ -1,0 +1,1 @@
+<?= $this->data["category"]->Descriptions[0]->LabelText; ?>

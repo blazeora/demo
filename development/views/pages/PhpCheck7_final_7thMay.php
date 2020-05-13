@@ -12,7 +12,7 @@ $html_body ="<p> <h1> HTML Content Goes here</h1> <p>";
 
 $mm = new RNCPHP\MailMessage();
 $mm->To->EmailAddresses = array($email_1);
-$mm->Subject = "Message from Oracle Service Cloud";
+$mm->Subject = "Message from Oracle Service Cloud Hello World";
  
 
 $mm->Body->Text = $text_body;
